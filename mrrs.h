@@ -5,7 +5,6 @@ class MRRS {
 public:
     MRRS();
     void ShowMenu();
-    
     void ExitMenu();
     ~MRRS();
 };
